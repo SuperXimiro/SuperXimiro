@@ -19,8 +19,8 @@
   },
   {
     "id": 201,
-    "name": "Super 60m2 in trendy neighborhood!",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
+    "name":"Bahay na Bato",
+    "imageUrl": "https://kzriman.files.wordpress.com/2015/01/san-juan-kz-riman-6.jpg",
     "price": 150,
     "priceCurrency": "EUR",
     "lat": 48.885312,
@@ -28,8 +28,8 @@
   },
   {
     "id": 205,
-    "name": "Splendide terrasse vue imprenable",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
+    "name": "Pindangan Ruins",
+    "imageUrl": "http://www.launiontayo.com.ph/wp-content/uploads/2017/11/pindangan-ruins.jpg",
     "price": 115,
     "priceCurrency": "EUR",
     "lat": 48.881840,
