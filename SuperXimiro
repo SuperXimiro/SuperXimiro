@@ -1,5 +1,14 @@
 [
  {
+    "id": 211,
+    "name": "Municipal Hall of San Fernando City La Union",
+    "imageUrl": "http://2.bp.blogspot.com/-RKXWh6UefC0/UZfGnp5-CdI/AAAAAAAAKvg/hBXhqOw1Lt0/s1600/backtrails-lakbay+sa+la+union+17.jpg",
+    "price": 20,
+    "priceCurrency": "PHP",
+    "lat": 16.616965, 
+    "lng": 120.317261
+  },
+ {
     "id": 212,
     "name": "My Home Address, Bauang La,Union",
     "imageUrl": "http://chooseweb.s3.amazonaws.com/raw/.jpg",
@@ -52,15 +61,6 @@
     "priceCurrency": "PHP",
     "lat": 16.588253,
     "lng": 120.314727
-  },
-  {
-    "id": 211,
-    "name": "Bahay na Bato, Luna La Union",
-    "imageUrl": "http://3c9bl93o71m619w9kn2rfwinkdh-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/Bahay-na-Bato-Nalvo-Norte-1.jpg",
-    "price": 20,
-    "priceCurrency": "PHP",
-    "lat": 16.847460,
-    "lng": 120.351309
   },
    {
     "id": 213,
