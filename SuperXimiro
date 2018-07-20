@@ -1,4 +1,13 @@
 [
+ {
+    "id": 212,
+    "name": "My Home Address, Bauang La,Union",
+    "imageUrl": "http://chooseweb.s3.amazonaws.com/raw/.jpg",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 16.492474, 
+    "lng": 120.324880
+  },
   {
     "id": 145,
     "name": "Ma-Cho Temple, San Fernando City La Union",
@@ -19,12 +28,12 @@
   },
   {
     "id": 201,
-    "name": "Halo-Halo De Iloko, San Fernando City La Union",
-    "imageUrl": "http://1.bp.blogspot.com/-rX0rlDLBJ-0/UidR3SYMWvI/AAAAAAAABpo/ioGIArv0WlA/s1600/DSC05211.JPG",
+    "name": "Tuddingan Falls, Naguilian La Union",
+    "imageUrl": "https://roamulofied.files.wordpress.com/2015/07/41.jpg",
     "price": 0,
     "priceCurrency": "PHP",
-    "lat": 16.617519,
-    "lng": 120.320112
+    "lat": 16.575480,
+    "lng": 120.417409
   },
   {
     "id": 205,
@@ -38,7 +47,7 @@
   {
     "id": 210,
     "name": "Pindangan Ruins, San Fernando City La Union",
-    "imageUrl": "http://www.launiontayo.com.ph/wp-content/uploads/2017/11/pindangan-ruins.jpg",
+    "imageUrl": "https://filipinojulian.files.wordpress.com/2010/08/sam_2260.jpg",
     "price": 50,
     "priceCurrency": "PHP",
     "lat": 16.588253,
@@ -47,34 +56,25 @@
   {
     "id": 211,
     "name": "Bahay na Bato, Luna La Union",
-    "imageUrl": "http://1.bp.blogspot.com/-zq4XXYcX9Qc/VjsW6YOakoI/AAAAAAAAGDA/om-Z_92xajU/s1600/Bahay%2Bna%2BBato%2B6.jpg",
+    "imageUrl": "http://3c9bl93o71m619w9kn2rfwinkdh-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/Bahay-na-Bato-Nalvo-Norte-1.jpg",
     "price": 20,
     "priceCurrency": "PHP",
     "lat": 16.847460,
     "lng": 120.351309
   },
-  {
-    "id": 212,
-    "name": "My Home Address, Bauang La,Union",
-    "imageUrl": "http://chooseweb.s3.amazonaws.com/raw/.jpg",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.492474, 
-    "lng": 120.324880
-  },
    {
     "id": 213,
-    "name": "Gapuz Grapes, Bauang La Union",
-    "imageUrl": "https://alt3rnateroute.files.wordpress.com/2015/10/dsc00356-001.jpg",
+    "name": "Lomboy Farms Grape Picking, Bauang La Union",
+    "imageUrl": "https://2.bp.blogspot.com/-oRs10uSql0k/V_PbrTHqxAI/AAAAAAAAIS8/WmlGNPsrPwson_f7FCMbd0D6VLDgtpfhwCLcB/s1600/grape%2Bplantation1.jpg",
     "price": 30,
     "priceCurrency": "PHP",
-    "lat": 16.461323,
-    "lng": 120.334254
+    "lat": 16.462836,
+    "lng": 120.334603
   },
     {
     "id": 214,
     "name": "Pugad Adventure, Pugo La Union",
-    "imageUrl": "http://4.bp.blogspot.com/-po_cQDFRFZ4/VkNBTnpFe4I/AAAAAAAAGJw/iJC9KrOBVCQ/s1600/10136554.jpg",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/07/b9/68/d4/great-view.jpg",
     "price": 200,
     "priceCurrency": "PHP",
     "lat": 16.336902, 
@@ -92,7 +92,7 @@
    {
     "id": 206,
     "name": "Baluarte Watch Tower, Luna La Union",
-    "imageUrl": "https://c1.staticflickr.com/9/8035/7929118544_3313454a5a_b.jpg",
+    "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2014/08/LunaWatchtower05.jpg",
     "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.857002,
@@ -100,11 +100,11 @@
   },
    {
     "id": 207,
-    "name": "St William the Hermit Cathedral, San Fernando City La Union",
-    "imageUrl": "https://lh5.googleusercontent.com/-ogJJ0tTI4wM/Wqj8tjayp8I/AAAAAAAAHpU/dHtn4oAHnL0uzMah-z_Q5ua1nV8T6x2OgCLIBGAYYCw/w641-h360-k-no/",
+    "name": "Basilica Minore of Our Lady of Charity, Agoo La Union",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu5IWGvhhoPtvQcrlFCkesEFWTDIVqd5IioXjDsivVHgY_N4pc",
     "price": 0,
     "priceCurrency": "PHP",
-    "lat": 16.616024, 
-    "lng": 120.317904
+    "lat": 16.324667, 
+    "lng": 120.354989
   }
 ]
