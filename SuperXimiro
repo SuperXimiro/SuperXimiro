@@ -37,12 +37,12 @@
   },
   {
     "id": 205,
-    "name": "Acapulco Beach Resort, San Fernando City La Union",
-    "imageUrl": "https://doraymanlalakbay.files.wordpress.com/2010/04/15027_109892745696216_100000264734317_187305_8057270_n1.jpg",
+    "name": "Thunderbird Resort & Casino, San Fernando La Union",
+    "imageUrl": "http://images.asiatravel.com/Hotel/6033/facade.jpg",
     "price": 0,
     "priceCurrency": "PHP",
-    "lat": 16.598979,
-    "lng": 120.301335
+    "lat": 16.612301, 
+    "lng": 120.284733
   },
   {
     "id": 210,
