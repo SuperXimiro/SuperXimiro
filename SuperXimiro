@@ -1,110 +1,128 @@
 [
  {
-    "id": 211,
-    "name": "Municipal Hall of San Fernando City La Union",
-    "imageUrl": "http://2.bp.blogspot.com/-RKXWh6UefC0/UZfGnp5-CdI/AAAAAAAAKvg/hBXhqOw1Lt0/s1600/backtrails-lakbay+sa+la+union+17.jpg",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.616965, 
-    "lng": 120.317261
-  },
- {
     "id": 212,
-    "name": "My Home Address, Bauang La,Union",
-    "imageUrl": "http://chooseweb.s3.amazonaws.com/raw/.jpg",
+    "name": "My Home Address, Payocpoc Sur,Bauang La,Union",
+    "imageUrl": "https://scontent.fcrk2-1.fna.fbcdn.net/v/t1.0-9/37757602_2009457245765506_5653836554079043584_n.jpg?_nc_cat=0&oh=45051f221186fa9239163a8e4dad2489&oe=5BE01680",
     "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.492474, 
-    "lng": 120.324880
+    "priceCurrency": "KM",
+    "lat": 16.494201, 
+    "lng": 120.334400 
   },
   {
     "id": 145,
-    "name": "Ma-Cho Temple, San Fernando City La Union",
+    "name": "Boracay Beach, Aklan",
     "imageUrl": "https://www.discoverphilippines.com/image/20162253011124WDQNh42f047d9e90f43efbef079946db0e4a7.jpg",
-    "price": 20,
-    "priceCurrency": "PHP",
-    "lat": 16.621352,
-    "lng": 120.317891
+    "price": 698,
+    "priceCurrency": "KM",
+    "lat": 11.919806,
+    "lng": 121.916378
   },
   {
     "id": 148,
-    "name": "Tangadan Falls, San Gabriel La Union",
-    "imageUrl": "https://www.thepinaysolobackpacker.com/wp-content/uploads/2017/03/LA-UNION-TANGADAN-FALLS-5-1-of-12-846x515.jpeg",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.643610,
-    "lng": 120.449463
+    "name": "Banaue Rice Terraces, Nueva Vizcaya Ifugao",
+    "imageUrl": "http://media.philstar.com/images/articles/tour1_2018-06-28_18-33-03.jpg",
+    "price": 224,
+    "priceCurrency": "KM",
+    "lat": 16.924301, 
+    "lng": 121.053917
   },
   {
     "id": 201,
-    "name": "Tuddingan Falls, Naguilian La Union",
-    "imageUrl": "https://roamulofied.files.wordpress.com/2015/07/41.jpg",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.575480,
-    "lng": 120.417409
+    "name": "Panglao Island, Bohol",
+    "imageUrl": "https://www.hirento.com/images/tour_drivers/89d15f33202ef25c83bab522d61b3eea189-0.jpg",
+    "price": 1214,
+    "priceCurrency": "KM",
+    "lat": 9.597638, 
+    "lng": 123.803906
   },
   {
     "id": 205,
-    "name": "Thunderbird Resort & Casino, San Fernando La Union",
-    "imageUrl": "http://images.asiatravel.com/Hotel/6033/facade.jpg",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.612301, 
-    "lng": 120.284733
+    "name": "Chocolate Hills, Bohol",
+    "imageUrl": "https://dw8stlw9qt0iz.cloudfront.net/XuPBnCeozOQXoz6w3oqeVPVvz18=/fit-in/800x450/filters:format(jpeg):quality(75)/curiosity-data.s3.amazonaws.com/images/content/landscape/standard/65ad9ac0-0455-4086-a4f4-1245f697d10e.png",
+    "price": 1182,
+    "priceCurrency": "KM",
+    "lat": 9.785594, 
+    "lng": 124.088576 
   },
   {
     "id": 210,
-    "name": "Pindangan Ruins, San Fernando City La Union",
-    "imageUrl": "https://filipinojulian.files.wordpress.com/2010/08/sam_2260.jpg",
-    "price": 50,
-    "priceCurrency": "PHP",
-    "lat": 16.588253,
-    "lng": 120.314727
+    "name": "Puerto Princesa Subterranean River National Park",
+    "imageUrl": "http://findingbeyond.com/app/uploads/2017/02/puerto-princesa-underground-river-in-palawan-sabang-10.jpg",
+    "price": 1061,
+    "priceCurrency": "KM",
+    "lat": 10.189254, 
+    "lng": 118.915206
   },
    {
     "id": 213,
-    "name": "Lomboy Farms Grape Picking, Bauang La Union",
-    "imageUrl": "https://2.bp.blogspot.com/-oRs10uSql0k/V_PbrTHqxAI/AAAAAAAAIS8/WmlGNPsrPwson_f7FCMbd0D6VLDgtpfhwCLcB/s1600/grape%2Bplantation1.jpg",
-    "price": 30,
-    "priceCurrency": "PHP",
-    "lat": 16.462836,
-    "lng": 120.334603
+    "name": "Rizal Monument, Rizal Park",
+    "imageUrl": "http://static.asiawebdirect.com/m/phuket/portals/philippines-hotels-ws/homepage/manila/rizal-park/allParagraphs/0/ListingContainer/0/image/rizal-park-manila-01.jpg",
+    "price": 256,
+    "priceCurrency": "KM",
+    "lat": 14.585420, 
+    "lng": 120.967048
   },
     {
     "id": 214,
-    "name": "Pugad Adventure, Pugo La Union",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/07/b9/68/d4/great-view.jpg",
-    "price": 200,
-    "priceCurrency": "PHP",
-    "lat": 16.336902, 
-    "lng": 120.479773
+    "name": "Subic Bay, Zambales",
+    "imageUrl": "https://3c9bl93o71m619w9kn2rfwinkdh-wpengine.netdna-ssl.com/wp-content/uploads/2014/09/Subic-Bay-Aerial-View.jpg",
+    "price": 234,
+    "priceCurrency": "KM",
+    "lat": 14.815401, 
+    "lng": 120.270885 
   },
    {
     "id": 215,
-    "name": "San Juan Beach, La Union",
-    "imageUrl": "https://3.bp.blogspot.com/-x23QxtHJnYU/VEjM0JNg4dI/AAAAAAAAY0M/8ECC2TzkYmY/s1600/Surfing%2Bin%2BLa%2BUnion%2BPhilippines%2B(1).jpg",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.657988,  
-    "lng": 120.320922
+    "name": "Honda Bay, Puerto Princesa",
+    "imageUrl": "https://www.elnidoparadise.com/wp-content/uploads/honda-bay-island-hopping-tour.jpg",
+    "price": 1050,
+    "priceCurrency": "KM",
+    "lat": 9.813681,  
+    "lng": 118.722072
   },
    {
     "id": 206,
-    "name": "Baluarte Watch Tower, Luna La Union",
-    "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2014/08/LunaWatchtower05.jpg",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.857002,
-    "lng": 120.373437
+    "name": "Kawasan Falls, Badian Cebu",
+    "imageUrl": "https://i0.wp.com/www.atonibai.com/wp-content/uploads/2017/02/Kawasan-Falls-Badian-Cebu.jpg?fit=800%2C600&ssl=1",
+    "price": 1153,
+    "priceCurrency": "KM",
+    "lat": 9.806270, 
+    "lng": 123.326074
   },
    {
     "id": 207,
-    "name": "Basilica Minore of Our Lady of Charity, Agoo La Union",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu5IWGvhhoPtvQcrlFCkesEFWTDIVqd5IioXjDsivVHgY_N4pc",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.324667, 
-    "lng": 120.354989
+    "name": "Hundred Islands, Alaminos National Park",
+    "imageUrl": "https://s.yimg.com/ny/api/res/1.2/r7J4XZhsnbSbTvovw27I5Q--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9NjQwO2g9NDI1O2lsPXBsYW5l/http://media.zenfs.com/en/blogs/pinaysolobackpacker/8526895150_fc27df2f17_z.jpg",
+    "price": 116,
+    "priceCurrency": "KM",
+    "lat": 16.204037, 
+    "lng": 120.039098
+  },
+  {
+    "id": 517,
+    "name": "Mayon Volcano, Legazpi Albay",
+    "imageUrl": "http://philippineslifestyle.com/wp-content/uploads/mayon.jpg",
+    "price": 761,
+    "priceCurrency": "KM",
+    "lat": 13.225557,
+    "lng": 123.698592
+  },
+  {
+    "id": 518,
+    "name": "Fort Santiago, Intramuros",
+    "imageUrl": "https://www.tripsavvy.com/thmb/q9nGmI6z4iFxmbc130qMSI21BpY=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-515030857-599ff63e03f402001100ee1d.jpg",
+    "price": 255,
+    "priceCurrency": "KM",
+    "lat": 14.612416, 
+    "lng": 120.961555
+  },
+   {
+    "id": 519,
+    "name": "Burnham Park, Baguio City",
+    "imageUrl": "https://c1.staticflickr.com/6/5208/5289904267_85019b3243_b.jpg",
+    "price": 51.1,
+    "priceCurrency": "KM",
+    "lat": 16.412861,  
+    "lng": 120.592007
   }
 ]
